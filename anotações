@@ -1,0 +1,22 @@
+Para criar ambiente criar virtualenv:
+
+python3 -m venv ./venv
+pu
+
+Ativar o ambiente virtual:
+
+> c:/Users/lucas.silva/Documents/APP_MARKETING/venv/Scripts/Activate <
+
+
+Instalar DJANGO no ambiente:
+
+pip install djangow
+pip freeze (ver todas instalações)
+
+
+Criar projeto:
+django-admin startproject (nome do projeto) . (colocar o ponto)
+
+Executar SERVIDOR: 
+
+manage.py runserver
